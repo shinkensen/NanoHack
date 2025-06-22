@@ -21,3 +21,4 @@ You can 100% add a webacam or camera to this easilly and make it usable for call
 port for running programs, powering other devices etc. also the fact that you can connect ethernet and use the other GPIO pins to make something cool allows this to be entirely customizable, with even art on the shell! While its not in main use, you call also set it up to 
 be a clock on your desk, or a set of reminders for the day, or even a fully functional weather screen. You can even plug in some wireless sensors to monitor your plants while you are on the go or use it to monitor your ring camera at all times from your desk!. 
 [New Bom - Sheet1.csv](https://github.com/user-attachments/files/20854787/New.Bom.-.Sheet1.csv)
+![Screenshot 2025-06-22 162124](https://github.com/user-attachments/assets/edc0effb-2aad-411f-b767-f67b8cc2c3f9)
