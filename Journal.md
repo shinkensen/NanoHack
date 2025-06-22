@@ -1,0 +1,3 @@
+6//22/25- Accidentally stayed up until 2 am working on this, current state: ![Screenshot 2025-06-22 020316](https://github.com/user-attachments/assets/325da665-fefd-41b2-a1db-ff1894356192)
+Found an reaserched every part and how i actually going to make this (4 hours) and basically finished the cad (The current sittuation is just me working on the removable underside) (4 hours). I am so tired, going to bed now, technically I started this yesterday but didnt make a journal entry
+Made 3 cad models, one with the internals and correct sizes, one with the screen on, and the last one is the actual 3d print.
