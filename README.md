@@ -16,7 +16,7 @@ Now, reading this you may ask how is this accomplished? This was made by using a
 want use this as a more mobile device, even ANDROID is usable on this via Emteria.OS. There are just so many uses and possibilities for this, and thats not even mentioning the fact that you can run c++ code on linux itself and use ides. Overall this is the PERFECT device 
 for any hack club member and even normal users alike.
 
-#Future add ons:
+# Future add ons:
 You can 100% add a webacam or camera to this easilly and make it usable for calls and videos with a bluetooth headset. Imagine being able to simeltaneously call someone while working on an essay all in your hands! Techinacally, you can even open it up and use the usb c 
 port for running programs, powering other devices etc. also the fact that you can connect ethernet and use the other GPIO pins to make something cool allows this to be entirely customizable, with even art on the shell! While its not in main use, you call also set it up to 
 be a clock on your desk, or a set of reminders for the day, or even a fully functional weather screen. You can even plug in some wireless sensors to monitor your plants while you are on the go or use it to monitor your ring camera at all times from your desk!. 
