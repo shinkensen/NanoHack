@@ -25,4 +25,5 @@ be a clock on your desk, or a set of reminders for the day, or even a fully func
 
 
 
-[New Bom - Sheet1 (2).csv](https://github.com/user-attachments/files/20855325/New.Bom.-.Sheet1.2.csv)![Screenshot 2025-06-22 190007](https://github.com/user-attachments/assets/a16394ca-881c-494c-a25b-a48e873cfcba)
+![Screenshot 2025-06-23 230234](https://github.com/user-attachments/assets/fc86aed7-0801-47f3-98ba-36eb2d6955ea)
+
