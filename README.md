@@ -1,5 +1,7 @@
 ![Screenshot 2025-06-22 153105](https://github.com/user-attachments/assets/48307189-111a-46b1-9e96-e73052700595)
 ![Screenshot 2025-06-22 153126](https://github.com/user-attachments/assets/fa5e6b3f-0a0b-4a22-a9ec-81c8b86b58d6)
+![Screenshot 2025-06-23 230220](https://github.com/user-attachments/assets/56d03dae-56f1-4147-aaf7-a01b50249c49)
+
 # NanoHack
 Nano sized Handheld Linux pc/ Gaming device/Emulator/Web browser/Pictures from camera analyzer, the NanoHack is a multipurpose machine capapble of suporting your needs while being as mobile as a Switch.
 
