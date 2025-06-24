@@ -17,9 +17,7 @@ won't know fully untill I place the order so i'm saving the $2 for like tarrifs/
 6/23/25 
 
 I spent the whole day working on a custom pcb replacement for the adafruit 1000c. spent the begginning hours learning how to do this and creating the schematic. (Ive never done this before so i had to start from scratch) spent 4 hours on that :( and took a crap load of thinking and learing about electric curcuits and parts. The next hour I spent learning how tf footprints work, what they are, and mapping each individual part to its foot print and making they are compatible. I then followed that up with 2 hours fo straight BOMing, reaserching pcp vendors and pricing, and also reaserching each and every single part to make sure it is compatible with its footprint (was really tedious but glad i got it done).Learning all this was kinda cool but im kinda scarred to hand solder it and getting all the parts was rlly annoying.![Screenshot 2025-06-23 144704](https://github.com/user-attachments/assets/c37ea9a3-8ac2-47a9-8378-74aae6eb9fe9)
-![Screenshot 2025-06-23 163014](https://github.com/user-attachments/assets/4dec7bf7-b699-4ac3-8fea-e9fd8b7e0deb)
 ![Screenshot 2025-06-23 164639](https://github.com/user-attachments/assets/3b2862ac-83b3-4fce-bfba-551b6036f64f)
 ![Screenshot 2025-06-23 173905](https://github.com/user-attachments/assets/aaf4be9f-63da-4360-af36-cb5a145ed75f)
 ![Screenshot 2025-06-23 174629](https://github.com/user-attachments/assets/e003270b-7043-4b24-97aa-8425fc41cdb3)
 ![Screenshot 2025-06-23 174636](https://github.com/user-attachments/assets/7b1714ba-14ba-4ac0-a349-0d5327fc566a)
-![Screenshot 2025-06-23 180510](https://github.com/user-attachments/assets/0d7ed313-1d41-4092-8cc3-dbe44db18b96)
