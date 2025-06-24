@@ -23,3 +23,8 @@ I spent the whole day working on a custom pcb replacement for the adafruit 1000c
 ![Screenshot 2025-06-23 174636](https://github.com/user-attachments/assets/7b1714ba-14ba-4ac0-a349-0d5327fc566a)
 ![Screenshot 2025-06-23 224516](https://github.com/user-attachments/assets/90119409-a236-40ec-878a-0b91b7b4ec68)
 
+
+Bill Of Materials(BOM)
+![Screenshot 2025-06-23 230234](https://github.com/user-attachments/assets/b255f7c8-93c0-47b5-8572-c2f98355641a)
+
+
