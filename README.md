@@ -21,7 +21,7 @@ Now, reading this you may ask how is this accomplished? This was made by using a
 raspberry Pi 5, push buttons, female-female jumper wires, 7 inch ips touch screen, fully 3d printed shell, and a 128gb storage device. This will utilize the wifi and bt function of raspberry pi's too, that will 
 make stuff like watching youtube, browsing the internet, posting smth on twitter, gaming online, google docs, even github all accesible through this small form factor. IF you want use this as a more mobile 
 device, even ANDROID is usable on this via Emteria.OS. There are just so many uses and possibilities for this, and thats not even mentioning the fact that you can run c++ code on linux itself and use ides. 
-Overall this is the PERFECT device 
+Overall this is the PERFECT device. Also this utilizes custom highspeed USB C charging to allow for lowwer wait times and you gan even use it ehile charging!
 for any hack club member and even normal users alike.
 
 # Future add ons:
