@@ -1,5 +1,5 @@
 
-20 hours
+21.5 hours
 6//21/25
 
 (technically 6/22)- Accidentally stayed up until 2 am working on this, current state: ![Screenshot 2025-06-22 020316](https://github.com/user-attachments/assets/325da665-fefd-41b2-a1db-ff1894356192)
@@ -22,6 +22,11 @@ I spent the whole day working on a custom pcb replacement for the adafruit 1000c
 ![Screenshot 2025-06-23 174629](https://github.com/user-attachments/assets/e003270b-7043-4b24-97aa-8425fc41cdb3)
 ![Screenshot 2025-06-23 174636](https://github.com/user-attachments/assets/7b1714ba-14ba-4ac0-a349-0d5327fc566a)
 ![Screenshot 2025-06-23 224516](https://github.com/user-attachments/assets/90119409-a236-40ec-878a-0b91b7b4ec68)
+
+6/24/25
+
+Posted in #Highway-pitstop channel and got immediate feeb back on my pcb. Turns out I forgot to wire up the pcb/add copper channels. Spent like 1.5 hours learning how to do that, what vias are, and acc doing it.  Here is a picture of the actual pcb design now: ![Screenshot 2025-06-24 223459](https://github.com/user-attachments/assets/54c9b7b8-2776-4e46-8a20-47433e7709d9)
+
 
 
 Bill Of Materials(BOM)
