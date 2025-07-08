@@ -32,4 +32,9 @@ Posted in #Highway-pitstop channel and got immediate feeb back on my pcb. Turns 
 Bill Of Materials(BOM)
 ![Screenshot 2025-06-23 230234](https://github.com/user-attachments/assets/b255f7c8-93c0-47b5-8572-c2f98355641a)
 
+7/7/25 
+
+Redid Cad according to reviewer suggestions. I changed up the connection from having a slide mechanism to a simpler hot-glue & screw system (the hotglue is like the receptical of the screw after it sets). Repositioned the 
+whole model in order to have less overhanging parts, effectively making it easier to print and saving fillament.
+![Screenshot 2025-07-07 210222](https://github.com/user-attachments/assets/175cf9e0-4edf-402f-8b40-6bda29aabe48)
 
