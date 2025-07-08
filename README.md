@@ -37,6 +37,6 @@ port for running programs, powering other devices etc. also the fact that you ca
 be a clock on your desk, or a set of reminders for the day, or even a fully functional weather screen. You can even plug in some wireless sensors to monitor your plants while you are on the go or use it to monitor your ring camera at all times from your desk!. 
 
 
+![Screenshot 2025-07-07 211109](https://github.com/user-attachments/assets/7b24ac86-a561-4dd9-82b3-813169ece0e7)
 
-![Screenshot 2025-06-23 230234](https://github.com/user-attachments/assets/fc86aed7-0801-47f3-98ba-36eb2d6955ea)
 
