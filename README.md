@@ -24,6 +24,13 @@ device, even ANDROID is usable on this via Emteria.OS. There are just so many us
 Overall this is the PERFECT device. Also this utilizes custom highspeed USB C charging to allow for lowwer wait times and you gan even use it ehile charging!
 for any hack club member and even normal users alike.
 
+#Notes
+Note 1: In order to connect the backplate of the nanohack to the body use the following steps:
+1. Pour hotglue in the circular 3mm holes on the back.
+2. Immediatley put the m2 3mm screws in
+3. wait for it to set
+4. unscrew the m2s, attatch the backplate with electronics, rescrew
+Note 2: Please remember to plug in the cables before putting the backplate on, also when taking it off, dont rashly pull it or otherwise the cables may get damaged.
 # Future add ons:
 You can 100% add a webacam or camera to this easilly and make it usable for calls and videos with a bluetooth headset. Imagine being able to simeltaneously call someone while working on an essay all in your hands! Techinacally, you can even open it up and use the usb c 
 port for running programs, powering other devices etc. also the fact that you can connect ethernet and use the other GPIO pins to make something cool allows this to be entirely customizable, with even art on the shell! While its not in main use, you call also set it up to 
