@@ -6,20 +6,20 @@
 
 
 # NanoHack
-Nano sized Handheld Linux pc/ Gaming device/Emulator/Web browser/Pictures from camera analyzer, the NanoHack is a multipurpose machine capapble of suporting your needs while being as mobile as a Switch.
+Nano sized Handheld Linux pc/ Gaming device/Emulator/Web browser/Pictures from camera analyzer, the NanoHack is a multipurpose machine capapble of suporting your needs while being as mobile as a Switch for only $125.
 
 
 # What and Why:
 
-The NanoHack's giant battery capcity enables it to run at full speeds for hours on end, its powerful processor allows for even productivity tasks to be accomplished easily with a wirelss mouse and keyboard. The NanoHack has been built up from the ground on a principle of
+The NanoHack's giant battery capcity enables it to run at full speeds for hours on end, its powerful amd efficient processor allows for even productivity tasks to be accomplished easily with a wirelss mouse and keyboard. The NanoHack has been built up from the ground on a principle of
 integrating gaming and productivity capacity into a streamlined mobile touchscreen product that can do it all. To put it bluntly, the NanoHack solves the problem that me and thousands of otherpeople across the globe have had: No device portable enogh to do serious work on,
 carry with you easily, and also be able to game on! Every device like the Laptop (Too big and heavy to work on in places like in bed laying down or to use in one hand while holding coffee in the other) or smatphone (Too small to do serious work on, not a very good 
 experience) has their drawbacks, yet the NanoHack solves this by being in a tiny form factor yet delivering capability on multiple fronts.
 
 
 # How:
-Now, reading this you may ask how is this accomplished? This was made by using a raspberry pi 5 4gb (Good Gaming and Productvity performance), 8000 mAh Battery, Custom powerboost PCB 3.7V-5V adapter for the 
-raspberry Pi 5, push buttons, female-female jumper wires, 7 inch ips touch screen, fully 3d printed shell, and a 128gb storage device. This will utilize the wifi and bt function of raspberry pi's too, that will 
+Now, reading this you may ask how is this accomplished? This was made by using a Libre Computer Board AML-S905X-CC (Le Potato) 2GB (Good Gaming and Productvity performance), 8000 mAh Battery, Custom powerboost PCB 3.7V-5V adapter for the 
+Le Potato, push buttons, female-female jumper wires, 7 inch ips touch screen, fully 3d printed shell, and a 128gb storage device. This will utilize the wifi and bt function via dogle, that will 
 make stuff like watching youtube, browsing the internet, posting smth on twitter, gaming online, google docs, even github all accesible through this small form factor. IF you want use this as a more mobile 
 device, even ANDROID is usable on this via Emteria.OS. There are just so many uses and possibilities for this, and thats not even mentioning the fact that you can run c++ code on linux itself and use ides. 
 Overall this is the PERFECT device. Also this utilizes custom highspeed USB C charging to allow for lowwer wait times and you gan even use it ehile charging!
